@@ -2,7 +2,7 @@
 
 <h3>🧑‍💻&nbsp; About Me</h3>
 
-- 🎓&nbsp; student of CE in Isfajan Univercity
+- 🎓&nbsp; student of CE in Isfahan Univercity
 - 💻 &nbsp; I'm Currently Learning MERN Stack!
 - 🌿 &nbsp; I'm Interested In AI!
 - ☕ &nbsp; Coding Is My Hobby :)

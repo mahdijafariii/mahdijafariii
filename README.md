@@ -2,27 +2,23 @@
 
 <h3>🧑‍💻&nbsp; About Me</h3>
 
-- 🎓&nbsp; student of CE in Isfahan Univercity
-- 💻 &nbsp; I'm Currently Learning MERN Stack!
+- 🎓&nbsp; Student of Computer Engineering at Isfahan University
+- 💻 &nbsp; Currently working with .NET and Backend Development, also working with Node.js
 - 🌿 &nbsp; I'm Interested In AI!
-- ☕ &nbsp; Coding Is My Hobby :)
+- ☕ &nbsp; Coding is my hobby and I love tackling new programming challenges !)
 ---
-<h3>📍 &nbsp; Tech Stack </h3>
+<h3 align="left">Languages and Tools:</h3>
 
--💻 &nbsp; 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&style=flat)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=flat)  
-  
--🌐 &nbsp; 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
-  ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat)
-
--🛜 &nbsp; 
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&style=flat)
-  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 
+---
 
+<p align="center" style="display: flex; justify-content: space-around; width: 100%; background-color: black; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdijafariii&show_icons=true&locale=en&layout=compact" alt="mahdijafariii" style="width: 30%; height: 200px; object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdijafariii&show_icons=true&locale=en" alt="mahdijafariii" style="width: 30%; height: 200px; object-fit: contain;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdijafariii&" alt="mahdijafariii" style="width: 30%; height: 200px; object-fit: contain;"/>
+</p>
 ---
 <h3> 📞 &nbsp; connect me  </h3>
 <p align = center >
@@ -39,3 +35,6 @@
   </a>
   
 </p>
+
+
+
